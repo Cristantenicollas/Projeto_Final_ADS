@@ -44,8 +44,9 @@ https://github.com/Cristantenicollas/Projeto_Final_ADS
 ---
 # 📸 Interface
 
-![alt text](image-1.png)
-![alt text](image.png)
+<img width="1919" height="1078" alt="Captura de tela 2026-07-15 205836" src="https://github.com/user-attachments/assets/13c24004-4903-4ae0-8551-30214276ffd3" />
+<img width="1919" height="1079" alt="Captura de tela 2026-07-15 210136" src="https://github.com/user-attachments/assets/fb831766-27de-41c5-8046-052ec7c95b54" />
+
 
 
 # 🎯 Objetivos
