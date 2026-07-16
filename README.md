@@ -118,9 +118,12 @@ Essa separação facilita a manutenção do sistema, reutilização de código e
 * Node.js
 * Express
 
-## Banco de Dados
+## Ciência de Dados
 
-* (Adicionar banco utilizado)
+* Scikit-Learn
+* Pandas
+* Numpy
+* joblib
 
 ## Ferramentas
 
